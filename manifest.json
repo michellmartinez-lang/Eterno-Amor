@@ -1,0 +1,24 @@
+{
+  "short_name": "Florecitas",
+  "name": "Florecitas Mágicas",
+  "description": "Ramos de flores de listón y limpiapipas hechos a mano",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#fff8f2",
+  "theme_color": "#d95f8a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
